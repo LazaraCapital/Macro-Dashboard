@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Macro-Dashboard/static/css/main.fb1d056c.css",
+    "main.js": "/Macro-Dashboard/static/js/main.21d01aaf.js",
+    "static/js/453.1dfe6028.chunk.js": "/Macro-Dashboard/static/js/453.1dfe6028.chunk.js",
+    "index.html": "/Macro-Dashboard/index.html",
+    "main.fb1d056c.css.map": "/Macro-Dashboard/static/css/main.fb1d056c.css.map",
+    "main.21d01aaf.js.map": "/Macro-Dashboard/static/js/main.21d01aaf.js.map",
+    "453.1dfe6028.chunk.js.map": "/Macro-Dashboard/static/js/453.1dfe6028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1d056c.css",
+    "static/js/main.21d01aaf.js"
+  ]
+}
